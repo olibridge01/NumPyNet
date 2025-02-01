@@ -1,7 +1,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 
-# NumPyNet
+# Neural Networks with NumPy
 This repository contains a NumPy implementation of a feedforward neural network for training an MNIST handwritten digit classifier. 
 
 ## Directory Structure
